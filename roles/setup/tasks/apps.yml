@@ -15,6 +15,16 @@
     name: "{{item}}"
     state: latest
   with_items: "{{applications}}"
+  
+- name: install java
+  homebrew_cask:
+    name: java
+    state: latest
+  
+- name: install maven
+  homebrew:
+    name: maven
+    state: latest
 
 - name: start installing homebrew cask applications
   homebrew_cask:
