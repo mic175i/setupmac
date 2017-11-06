@@ -7,8 +7,6 @@ general:
 applications:
   - git
   - vim
-  - java
-  - maven
 
 # homebrew cask applications
 cask_applications:
@@ -16,3 +14,5 @@ cask_applications:
   - slack
   - intellij-idea
   - sublime-text
+  - java
+  - maven
