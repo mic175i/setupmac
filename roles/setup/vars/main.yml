@@ -5,37 +5,8 @@ general:
 
 # homebrew applications
 applications:
-  // - autojump
   - git
-  - tree
-  - httpie
-  - curl
-  - wget
-  - kubectl
-  - kubernetes-helm
-  - zsh
-  - go
-  - vim
-  - hugo
-  - saltstack
-  - neovim
-  - ag 
-  - ctags
-  - terraform
 
 # homebrew cask applications
 cask_applications:
   - google-chrome
-  - slack
-  - iterm2
-  - caffeine
-  - docker
-  - minikube
-  - vagrant
-  - emacs
-  - garmin-express
-  - 1password
-  - alfred
-  - virtualbox
-  - spotify
-  - steam
