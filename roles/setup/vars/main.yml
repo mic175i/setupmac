@@ -7,11 +7,11 @@ general:
 applications:
   - git
   - vim
+  - java8
 
 # homebrew cask applications
 cask_applications:
   - google-chrome
   - slack
   - intellij-idea
-  - java8
   - sublime-text
