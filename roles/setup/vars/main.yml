@@ -15,3 +15,5 @@ cask_applications:
   - intellij-idea
   - java8
   - sublime-text
+  
+downloads:
