@@ -14,5 +14,3 @@ cask_applications:
   - slack
   - intellij-idea
   - sublime-text
-  - java
-  - maven
