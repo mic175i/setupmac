@@ -6,6 +6,7 @@ general:
 # homebrew applications
 applications:
   - git
+  - vim
 
 # homebrew cask applications
 cask_applications:
