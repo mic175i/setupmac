@@ -22,7 +22,7 @@ if [ $1 == "uninstall" ]; then
 fi
 
 echo "==========================================="
-echo "Setting up your mac using daemonza/setupmac"
+echo "Setting up your mac using mic175i/setupmac"
 echo "==========================================="
 
 sudo easy_install pip
