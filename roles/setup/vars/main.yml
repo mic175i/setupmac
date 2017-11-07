@@ -7,6 +7,8 @@ general:
 applications:
   - git
   - vim
+  - node
+  - yarn
 
 # homebrew cask applications
 cask_applications:

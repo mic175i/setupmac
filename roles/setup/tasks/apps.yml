@@ -18,7 +18,7 @@
   
 - name: install java
   homebrew_cask:
-    name: java
+    name: java8
     state: installed
   
 - name: install maven
